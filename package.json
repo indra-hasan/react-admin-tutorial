@@ -5,6 +5,7 @@
   "dependencies": {
     "prop-type": "^0.0.1",
     "ra-data-json-server": "^2.6.4",
+    "ra-data-simple-rest": "^2.6.4",
     "react": "^16.7.0",
     "react-admin": "^2.6.4",
     "react-dom": "^16.7.0",
